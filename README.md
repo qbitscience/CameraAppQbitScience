@@ -5,9 +5,9 @@ in android.
 When the application starts it first asks user to 
 allow permission for camera.
 It contains a button.
-When its clicked camera opnes,
+When its clicked, camera opnes.
 now just click a picture and it will be visible 
-to your application.
+in your application.
 As #startActivityForResult is #deprciated we have used
 #registerForActivityResult.
 We have not worked on design here.
